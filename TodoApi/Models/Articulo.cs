@@ -7,6 +7,5 @@ namespace TodoApi.Models
         public string Descripcion { get; set; }
         public int Stock { get; set; }
         public string Foto { get; set; }
-        public bool Casado { get; set; }
     }
 }
